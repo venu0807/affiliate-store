@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prod_001",
+    "title": "Minimalist Desk Organizer",
+    "description": "Keep your workspace clean and productive with this sleek bamboo desk organizer.",
+    "price": 24.99,
+    "image_url": "https://images.unsplash.com/photo-1512314889357-e157c22f938d?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://amazon.com/"
+  },
+  {
+    "id": "prod_002",
+    "title": "Ergonomic Office Chair",
+    "description": "Premium ergonomic support for long hours of coding and working.",
+    "price": 199.99,
+    "image_url": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://amazon.com/"
+  },
+  {
+    "id": "prod_003",
+    "title": "Noise Cancelling Headphones",
+    "description": "Block out the world and focus on your work with industry-leading noise cancellation.",
+    "price": 299.99,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://amazon.com/"
+  }
+]

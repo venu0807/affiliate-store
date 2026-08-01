@@ -1,26 +1,83 @@
 [
   {
     "id": "prod_001",
-    "title": "Minimalist Desk Organizer",
-    "description": "Keep your workspace clean and productive with this sleek bamboo desk organizer.",
-    "price": 24.99,
-    "image_url": "https://images.unsplash.com/photo-1512314889357-e157c22f938d?q=80&w=800&auto=format&fit=crop",
-    "affiliate_url": "https://amazon.com/"
+    "title": "Aesthetic Linen Throw Pillow Set",
+    "description": "Transform your living room instantly. These neutral-tone linen pillows are trending on every Pinterest home board.",
+    "price": 34.99,
+    "category": "Home Decor",
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=linen+throw+pillow+set&tag=venu080d-21"
   },
   {
     "id": "prod_002",
-    "title": "Ergonomic Office Chair",
-    "description": "Premium ergonomic support for long hours of coding and working.",
-    "price": 199.99,
-    "image_url": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?q=80&w=800&auto=format&fit=crop",
-    "affiliate_url": "https://amazon.com/"
+    "title": "Minimalist Boho Wall Art Print",
+    "description": "Instantly upgrade any room with this stunning gallery-quality boho print. Ships in a sturdy tube for damage-free delivery.",
+    "price": 19.99,
+    "category": "Home Decor",
+    "image_url": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=boho+wall+art+print&tag=venu080d-21"
   },
   {
     "id": "prod_003",
-    "title": "Noise Cancelling Headphones",
-    "description": "Block out the world and focus on your work with industry-leading noise cancellation.",
-    "price": 299.99,
-    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
-    "affiliate_url": "https://amazon.com/"
+    "title": "Rattan Wicker Storage Basket Set",
+    "description": "The secret to a clutter-free, Pinterest-worthy home. These hand-woven baskets are perfect for blankets, towels, or toys.",
+    "price": 42.99,
+    "category": "Home Decor",
+    "image_url": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=rattan+storage+basket&tag=venu080d-21"
+  },
+  {
+    "id": "prod_004",
+    "title": "Viral Tallow Whipped Face Cream",
+    "description": "The TikTok & Pinterest skincare obsession. All-natural, zero chemicals, deeply moisturizing. Glowing skin in 7 days.",
+    "price": 24.99,
+    "category": "Beauty",
+    "image_url": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=tallow+whipped+face+cream&tag=venu080d-21"
+  },
+  {
+    "id": "prod_005",
+    "title": "Gua Sha Facial Sculpting Tool",
+    "description": "Reduce puffiness and get a chiseled jawline in minutes. The must-have beauty tool pinned over 2 million times.",
+    "price": 16.99,
+    "category": "Beauty",
+    "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=gua+sha+facial+tool&tag=venu080d-21"
+  },
+  {
+    "id": "prod_006",
+    "title": "Aesthetic Glass Water Bottle",
+    "description": "Track your daily hydration in style. This sleek glass bottle with time markers is everywhere on Pinterest wellness boards.",
+    "price": 22.99,
+    "category": "Wellness",
+    "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=aesthetic+glass+water+bottle&tag=venu080d-21"
+  },
+  {
+    "id": "prod_007",
+    "title": "Smart LED Desk Lamp with USB Charging",
+    "description": "Elevate your work from home setup. Eye-care mode, adjustable brightness and a built-in phone charger. Productivity unlocked.",
+    "price": 39.99,
+    "category": "Productivity",
+    "image_url": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=smart+led+desk+lamp+usb&tag=venu080d-21"
+  },
+  {
+    "id": "prod_008",
+    "title": "Matcha Bamboo Whisk & Ceremony Set",
+    "description": "The morning ritual going viral on Pinterest. Ditch coffee, embrace matcha. Everything you need in one beautiful set.",
+    "price": 28.99,
+    "category": "Kitchen",
+    "image_url": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=matcha+bamboo+whisk+set&tag=venu080d-21"
+  },
+  {
+    "id": "prod_009",
+    "title": "Portable Bluetooth Mini Projector",
+    "description": "Turn any wall into a cinema. 1080p support, connects to your phone in seconds. The ultimate gift trending on Pinterest.",
+    "price": 89.99,
+    "category": "Tech",
+    "image_url": "https://images.unsplash.com/photo-1626379953822-baec19c3accd?q=80&w=800&auto=format&fit=crop",
+    "affiliate_url": "https://www.amazon.in/s?k=portable+bluetooth+mini+projector&tag=venu080d-21"
   }
 ]
